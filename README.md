@@ -6,39 +6,40 @@ This project is an Employee Performance Analytics Dashboard built with React, Re
 
 ## Features
 
-- *Employee Performance Visualization*: Line chart displaying employee performance over time.
-- *Department Comparison*: Bar chart comparing average performance metrics across departments.
-- *Filtering*: Form to filter data by date range and department.
-- *State Management*: Efficient state management using Redux Toolkit.
-- *Data Fetching*: Axios for fetching mock employee performance data from a local JSON file.
-- *Responsive Design*: Styled with Tailwind CSS for a clean and responsive layout.
+- Employee Performance Visualization: Line chart displaying employee performance over time.
+- Department Comparison: Bar chart comparing average performance metrics across departments.
+- Filtering: Form to filter data by date range and department.
+- State Management: Efficient state management using Redux Toolkit.
+- Data Fetching: Axios for fetching mock employee performance data from a local JSON file.
+- Responsive Design: Styled with Tailwind CSS for a clean and responsive layout.
 
 ## Technologies and Libraries
 
-- *React*: UI framework.
-- *Redux Toolkit*: State management.
-- *Axios*: Data fetching.
-- *Highcharts & Highcharts-React-Official*: Charting library.
-- *Tailwind CSS*: Styling.
-- *React-Router-Dom*: Routing (if implementing multiple views).
-- *CSS*: Styling.
+- React: UI framework.
+- Redux Toolkit: State management.
+- Axios: Data fetching.
+- Highcharts & Highcharts-React-Official: Charting library.
+- Tailwind CSS: Styling.
+- React-Router-Dom: Routing (if implementing multiple views).
+- CSS: Styling.
 
 # Installation
 
 Clone the repository:
 
-sh
+
 git clone [https://github.com/yourusername/employee-performance-dashboard.git](https://github.com/MOHDSAMIULLAH/employee-performance-dashboard.git)
 cd employee-performance-dashboard
 
 
+
 Install dependencies:
-sh
+
 npm install
 
 
 Start the development server:
-sh
+
 npm start
 
 
