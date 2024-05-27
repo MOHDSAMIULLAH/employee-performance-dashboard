@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "department": "Sales",
+        "performance": [
+            { "date": "2024-01-01", "metric": 80 },
+            { "date": "2024-02-01", "metric": 85 },
+            { "date": "2024-03-01", "metric": 90 }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "department": "Marketing",
+        "performance": [
+            { "date": "2024-01-01", "metric": 75 },
+            { "date": "2024-02-01", "metric": 78 },
+            { "date": "2024-03-01", "metric": 82 }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Black Smith",
+        "department": "Marketing",
+        "performance": [
+            { "date": "2024-01-01", "metric": 76 },
+            { "date": "2024-02-01", "metric": 77 },
+            { "date": "2024-03-01", "metric": 88 }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Alice Johnson",
+        "department": "HR",
+        "performance": [
+            { "date": "2024-01-01", "metric": 70 },
+            { "date": "2024-02-01", "metric": 75 },
+            { "date": "2024-03-01", "metric": 80 }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Bob Williams",
+        "department": "IT",
+        "performance": [
+            { "date": "2024-01-01", "metric": 85 },
+            { "date": "2024-02-01", "metric": 88 },
+            { "date": "2024-03-01", "metric": 92 }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Emily Davis",
+        "department": "Finance",
+        "performance": [
+            { "date": "2024-01-01", "metric": 78 },
+            { "date": "2024-02-01", "metric": 80 },
+            { "date": "2024-03-01", "metric": 85 }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Michael Wilson",
+        "department": "Sales",
+        "performance": [
+            { "date": "2024-01-01", "metric": 82 },
+            { "date": "2024-02-01", "metric": 86 },
+            { "date": "2024-03-01", "metric": 88 }
+        ]
+    }
+]
