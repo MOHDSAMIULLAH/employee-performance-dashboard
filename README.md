@@ -31,28 +31,26 @@ Enter date range to include Employees in between the mentioned date.
 - Axios: Data fetching.
 - Highcharts & Highcharts-React-Official: Charting library.
 - Tailwind CSS: Styling.
-- React-Router-Dom: Routing (if implementing multiple views).
-- CSS: Styling.
 
 # Installation
 
 Clone the repository:
 
-
+```
 git clone [https://github.com/yourusername/employee-performance-dashboard.git](https://github.com/MOHDSAMIULLAH/employee-performance-dashboard.git)
 cd employee-performance-dashboard
-
+```
 
 
 Install dependencies:
-
+```
 npm install
-
+```
 
 Start the development server:
-
+```
 npm start
-
+```
 
 
 Open your browser:
