@@ -4,6 +4,17 @@ This project is an Employee Performance Analytics Dashboard built with React, Re
 
 ## Live Link: https://employee-performance-dashboard-m4e5.vercel.app
 
+## Dashboard:
+<img width="1717" alt="image" src="https://github.com/MOHDSAMIULLAH/employee-performance-dashboard/assets/91786605/525d801a-8ed8-441e-b811-96a4bd30f3d6">
+
+Filter By Department:
+<img width="1725" alt="image" src="https://github.com/MOHDSAMIULLAH/employee-performance-dashboard/assets/91786605/a407dc3c-1520-4f28-b09b-433f3920ae48">
+
+Filter By Date:
+Enter date range to include Employees in between the mentioned date.
+<img width="1724" alt="image" src="https://github.com/MOHDSAMIULLAH/employee-performance-dashboard/assets/91786605/e93b9ad4-e9d8-485e-917f-49726cc6114b">
+
+
 ## Features
 
 - Employee Performance Visualization: Line chart displaying employee performance over time.
